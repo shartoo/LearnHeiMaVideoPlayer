@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen  xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <Preference
+        app:key="clear_cache"
+        app:title="清除缓存"
+        app:summary="Report technical issues or suggest new features"/>
+    <SwitchPreferenceCompat
+        app:key="push_notifaction"
+        app:title="推送通知"/>
+    <SwitchPreferenceCompat
+        app:key="no_wifi"
+        app:title="非wifi下加载图片"/>
+    <Preference
+        app:key="about"
+        app:title="关于" />
+</PreferenceScreen>

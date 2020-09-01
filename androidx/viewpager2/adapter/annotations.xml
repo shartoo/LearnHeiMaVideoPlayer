@@ -1,0 +1,5 @@
+<root>
+    <item name='androidx.viewpager2.adapter.FragmentStateAdapter'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+</root>
